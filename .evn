@@ -1,0 +1,23 @@
+# ==============================
+# DISCORD
+# ==============================
+
+# Token ของ Bot
+# Discord Developer Portal → Bot → Token
+DISCORD_TOKEN=your_discord_bot_token_here
+
+# Client ID ของ Bot
+# Discord Developer Portal → General Information → Application ID
+DISCORD_CLIENT_ID=your_discord_client_id_here
+
+# ==============================
+# WEB SERVER
+# ==============================
+
+# URL ของเว็บที่เข้าถึงได้จากอินเทอร์เน็ต
+# ตอน dev  → https://xxxx.ngrok-free.app
+# Production → https://yourdomain.com
+WEB_URL=https://your-domain.com
+
+# Port ที่ Web Server จะรัน (default: 3000)
+PORT=3000
